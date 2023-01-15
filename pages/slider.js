@@ -1,8 +1,7 @@
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import img1 from "./sliderImgs/bsc.png";
-import img2 from "./sliderImgs/discord.png";
+
 
 const NftSlider = () => {
   var settings = {
