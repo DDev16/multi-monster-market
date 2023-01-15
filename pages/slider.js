@@ -69,7 +69,7 @@ const NftSlider = () => {
       <Slider {...settings} className="mx-3 my-10 slider">
         <div className="px-3">
           <img
-            src={spacekitty_nft}
+            src={"public/discordlogo.png"}
             alt=""
             className="2xl:h-290 h-290 lg:h-186 md:h-203 object-cover rounded-t-xl sm:h-4 w-full xl:h-242"
           />
