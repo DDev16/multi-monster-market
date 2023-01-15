@@ -1688,7 +1688,7 @@ export default function Home() {
               <div style={{ textAlign: "center", minHeight: "100px" }}>
                 <audio controls style={{ color: "blue" }}>
                   <source
-                    src="./public/Avicii.mp3"
+                    src="./Avicii.mp3"
                     type="audio/mpeg"
                   />
                   <source

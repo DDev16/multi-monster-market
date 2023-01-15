@@ -32,13 +32,15 @@
     "slick-carousel": "^1.8.1",
     "tls": "^0.0.1",
     "web3": "^1.8.0",
-    "web3modal": "^1.9.9"
+    "web3modal": "^1.9.9",
+    "webpack-dev-server": "^4.11.1"
   },
   "devDependencies": {
     "@types/canvas-confetti": "^1.4.3",
     "@types/react": "^18.0.21",
     "eslint": "8.24.0",
     "eslint-config-next": "12.3.1",
+    "http-proxy-middleware": "^2.0.6",
     "react-multi-carousel": "^2.8.2"
   }
 }
